@@ -19,12 +19,12 @@ enter the terminal and type "npm start" to initiate the application
 
 This will help users keep track of their budget on the go
 
-## **Video**
+## **Screenshots**
 
-[View the video on screencastify by clicking here](https://drive.google.com/file/d/12j5gi6KiO7tQhxK2U3QfruxhGus6Kbu0/view).
+![](https://github.com/laurenb08/budgetTracker/raw/main/public/assets/Screen%20Shot%202021-03-10%20at%208.23.51%20PM.png)
 
-![](https://github.com/laurenb08/employeeTracker/raw/main/assets/EmployeeTracker.gif)
+![](https://github.com/laurenb08/budgetTracker/raw/main/public/assets/Screen%20Shot%202021-03-10%20at%208.25.07%20PM.png)
 
 ## **Questions**
 
-Please contact <laurenb08@gmail.com> if you have any questions or [View the updated site by cliking here](https://github.com/laurenb08/employeeTracker).
+Please contact <laurenb08@gmail.com> if you have any questions or [View the updated site by cliking here](https://laurenb08.github.io/budgetTracker/).
