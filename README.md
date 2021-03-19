@@ -27,4 +27,4 @@ This will help users keep track of their budget on the go
 
 ## **Questions**
 
-Please contact <laurenb08@gmail.com> if you have any questions or [View the updated site by cliking here](https://laurenb08.github.io/budgetTracker/).
+Please contact <laurenb08@gmail.com> if you have any questions or [View the updated site by cliking here](https://offline-budget-tracker-app-01.herokuapp.com/).
